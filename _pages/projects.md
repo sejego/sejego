@@ -4,8 +4,7 @@ layout: default
 permalink: /projects/
 published: true
 ---
-
-## Professional Projects
+<h2 style="text-align: center;">Professional projects</h2>
 
 <div class="ProjectContainer">
 
@@ -43,7 +42,7 @@ published: true
 
 </div>
 
-## Personal Projects
+<h2 style="text-align: center;">Personal projects</h2>
 
 <div class="ProjectContainer">
 
