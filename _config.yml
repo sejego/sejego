@@ -5,7 +5,7 @@ description: Software Engineer &nbsp|&nbsp Student
 
 baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: "sejego@taltech.ee"
 
 
 highlighter: rouge
@@ -45,6 +45,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  personal:
+    output: true
+    permalink: /personal/:path/
 
 sass:
   sass_dir: /assets/css/_sass
