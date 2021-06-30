@@ -43,6 +43,5 @@ and applying my knowledge to real-life challenges.
 :       Tallinna Tööstushariduskeskus
 
 ## Contact {#contact}
-<i class="fas fa-map-marker-alt"></i> &nbsp; Athens, Greece
 
-<i class="far fa-envelope"></i> &nbsp; <sejego@taltech.ee>
+Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or <sejego@taltech.ee>
