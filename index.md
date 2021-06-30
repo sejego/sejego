@@ -28,6 +28,24 @@ and applying my knowledge to real-life challenges.
 :   [IMECC OÜ](https://www.imecc.ee/en/){:target="_blank"}
 :   [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
 
+
+## Tools
+
+<span class="label">ROS</span>
+<span class="label">C++</span>
+<span class="label">Python</span>
+<span class="label">Ruby</span>
+<span class="label">Ruby On Rails</span>
+<span class="label">JavaScript</span>
+<br>
+<span class="label">VHDL</span>
+<span class="label">Jupyter</span>
+<span class="label">LaTeX</span>
+<span class="label">Git</span>
+<span class="label">Linux</span>
+<span class="label">FIWARE</span>
+
+
 ## Education 
 
 **2020 – present**

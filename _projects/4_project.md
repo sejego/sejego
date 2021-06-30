@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: Project 4
 description: another project
 ---

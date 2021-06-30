@@ -1,0 +1,14 @@
+.label {
+    color: $text-color;
+    padding: 0.4rem;
+    display: inline-block; 
+    position: relative;
+    margin-top: 0.5rem;
+    font-size: 80%;
+    border-radius: 0%;
+    background-color: lightgray;
+    @media (prefers-color-scheme: dark) {
+      background: $labels-bg-dark;
+      color: $labels-txt-dark;
+    }
+  }

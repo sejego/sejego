@@ -13,13 +13,15 @@ $transparent: transparent;
 
 // Color scheme for light
 $body-bg: #fdfdfd;
-$projectbox: #a8bdf3;
+$projectbox: lightgray;
 $text-color: #333;
 
 // Color scheme for dark modes
 $body-bg-dark: #121212;
 $projectbox-dark: lighten($body-bg-dark, 10%);
 $text-color-dark: #777;
+$labels-bg-dark: #590F6C;
+$labels-txt-dark: #ABABAB;
 
 // Colour palette for project boxes
 $theme1: ("one",#388087),("two", #6FB3B8),("three",#BADFE7),("four",#C2EDCE),("five",#F6F6F2);

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project
 title: A longer Project Title
 description: short project description
 ---

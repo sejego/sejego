@@ -6,6 +6,7 @@ published: true
 ---
 
 ## Professional Projects
+
 <div class="ProjectContainer">
 
 	<div class="gallery">
