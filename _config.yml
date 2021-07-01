@@ -12,16 +12,16 @@ highlighter: rouge
 markdown: kramdown
 
 # Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
 # Social media links in footer
 email: "sejego@taltech.ee"
 linkedin: "sejego"
 github: "sejego"
 researchgate: "Sergei-Jegorov"
-youtube: "#"
+youtube: "UCu6FOB1b0kAYbp5X_c_Z_3g"
 
 highlighter: rouge
 markdown: kramdown
@@ -62,6 +62,5 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank
