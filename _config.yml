@@ -1,9 +1,9 @@
 ### your site title here
 
-title: Sergei
+title: Sergei Jegorov
 description: Software Engineer | Student
 
-baseurl: "/sejego" #name of GitHub repository
+baseurl: "" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: "sejego@taltech.ee"
 
