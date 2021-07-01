@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-# Hey there!
+# Hey!
 
 My name is Sergei, I am a software engineer and Computer and Systems Engineering student.
 My main interests are: robotics, IoT systems and web development. I enjoy learning new things
@@ -61,6 +61,6 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf)
 :   **Robotics Technician specialty**
 :       Tallinna Tööstushariduskeskus
 
-## Contact {#contact}
+## Contact
 
 Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or <sejego@taltech.ee>
