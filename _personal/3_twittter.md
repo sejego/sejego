@@ -11,4 +11,4 @@ authentication, ***Guard*** for live updates. The app is deployed on Heroku.
 <a href="https://github.com/sejego/twittter"><span class="label">View the source</span></a>
 <a href="https://glacial-cliffs-78957.herokuapp.com"><span class="label">Live Demo</span></a>
 
-![example image]({{site.url}}/assets/images/twitter-clone.png "Twitter clone")
+![example image]({{ '/assets/images/twitter-clone.png' | prepend: site.baseurl | prepend: site.url }} "Twitter clone")

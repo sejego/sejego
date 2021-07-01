@@ -10,4 +10,4 @@ You can draw anything you like by moving a mouse over the grid. The grid size is
 <a href="https://github.com/sejego/etch-a-sketch"><span class="label">View the source</span></a>
 <a href="https://sejego.github.io/etch-a-sketch/"><span class="label">Live Demo</span></a>
 
-![example image](/assets/images/etch-a-sketch.png "Etch-a-Sketch")
+![example image]({{ '/assets/images/etch-a-sketch.png' | prepend: site.baseurl | prepend: site.url }} "Etch-a-Sketch")
