@@ -3,7 +3,7 @@
 title: Sergei
 description: Software Engineer | Student
 
-baseurl: "" #name of GitHub repository
+baseurl: "/sejego" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: "sejego@taltech.ee"
 
