@@ -28,6 +28,7 @@ and applying my knowledge to real-life challenges.
 :   [IMECC OÜ](https://www.imecc.ee/en/){:target="_blank"}
 :   [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
 
+For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf)
 
 ## Tools
 
