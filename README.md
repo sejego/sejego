@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [PSG453](https://github.com/TalTech-PSG453)
 
-- 🌱 I’m currently learning **Ruby on Rails, web development**
+- 🌱 I’m currently learning **Ruby on Rails wed dev, HW/SW design and Computer Vision with OpenCV**
 
 - 📫 Reach me via email: **sejego@taltech.ee**
 
