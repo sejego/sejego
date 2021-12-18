@@ -9,8 +9,8 @@ published: true
 # Hey!
 
 My name is Sergei, I am a software engineer and Computer and Systems Engineering student.
-My main interests are: robotics, IoT systems and web development. I enjoy learning new things
-and applying my knowledge to real-life challenges.
+My main interests are: robotics, embedded programming and web development. I am a big fan of finding solutions real-life challenges.
+In my free time, I am a dancer and an avid learner.
 
 ## Experience
 **2020 – present**
@@ -32,23 +32,22 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_b
 ## Tools
 
 <span class="label">ROS</span>
-<span class="label">C++</span>
+<span class="label">C/C++</span>
 <span class="label">Python</span>
 <span class="label">Ruby</span>
 <span class="label">Ruby On Rails</span>
 <span class="label">JavaScript</span>
 <br>
 <span class="label">VHDL</span>
-<span class="label">Jupyter</span>
+<span class="label">MATLAB</span>
 <span class="label">LaTeX</span>
-<span class="label">Git</span>
 <span class="label">Linux</span>
 <span class="label">FIWARE</span>
 
 
 ## Education 
 
-**2020 – present**
+**2020 – 2022**
 :   **MSc Computer and Systems Engineering**
 :       Tallinn University of Technology
 
