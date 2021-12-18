@@ -4,7 +4,7 @@ title: Sergei Jegorov
 description: Software Engineer | Student
 
 baseurl: "/sejego" #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
+url: "http://www.sejego.engineer/" #custom url to be used instead of GitHub repository
 email: "sejego@taltech.ee"
 
 
