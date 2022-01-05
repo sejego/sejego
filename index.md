@@ -32,7 +32,8 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_b
 ## Tools
 
 <span class="label">ROS</span>
-<span class="label">C/C++</span>
+<span class="label">C</span>
+<span class="label">C++</span>
 <span class="label">Python</span>
 <span class="label">Ruby</span>
 <span class="label">Ruby On Rails</span>
@@ -58,6 +59,10 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_b
 **2016 - 2017**
 :   **Robotics Technician specialty**
 :       Tallinna Tööstushariduskeskus
+
+## Awards
+
+**2021 Comodule Sander Paas Scholarship winner**
 
 ## Contact
 
