@@ -51,6 +51,7 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_b
 <span class="label">LaTeX</span>
 <span class="label">Linux</span>
 <span class="label">FIWARE</span>
+<span class="label">OpenCV</span>
 
 
 ## Education 
