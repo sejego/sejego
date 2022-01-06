@@ -21,8 +21,8 @@ In my free time, I am a dancer and an avid learner.
 
 **2021**
 :   **Web Developer**
-:   Edify Centre
-:   Erasmus+ Internship
+:   IASIS NGO
+:   Erasmus+ Internship in Greece
 
 **2020 – 2021**
 :   **Robotics Engineer** 
