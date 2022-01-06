@@ -1,4 +1,5 @@
 ---
+title: |
 layout: about
 permalink: /
 profile:
@@ -18,14 +19,20 @@ In my free time, I am a dancer and an avid learner.
 :   Tallinn University of Technology
 :   [PSG453](https://www.etis.ee/Portal/Projects/Display/72b66c74-e911-49c3-ac6a-6716f9e72ba5?lang=ENG){:target="_blank"} project
 
+**2021**
+:   **Web Developer**
+:   Edify Centre
+:   Erasmus+ Internship
+
 **2020 – 2021**
 :   **Robotics Engineer** 
 :   Tallinn University of Technology
+:   Work for [IVAR](https://ivar.ttu.ee/){:target="_blank"} laboratory
 
 **2018 – 2019**
 :   **Development Engineer**
-:   [IMECC OÜ](https://www.imecc.ee/en/){:target="_blank"}
-:   [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
+:   IMECC OÜ
+:   Work for [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
 
 For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_blank"}
 
@@ -62,7 +69,7 @@ For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_b
 
 ## Awards
 
-**2021 Comodule Sander Paas Scholarship winner**
+**2021 [Comodule](https://comodule.com/){:target="_blank"} Sander Paas Scholarship winner**
 
 ## Contact
 
