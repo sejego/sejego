@@ -44,10 +44,10 @@ compress_html:
 collections:
   projects:
     output: true
-    permalink: /projects/:path/
+    permalink: projects/:path/
   personal:
     output: true
-    permalink: /personal/:path/
+    permalink: personal/:path/
 
 sass:
   sass_dir: /assets/css/_sass
