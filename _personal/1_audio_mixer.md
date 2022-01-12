@@ -1,14 +1,14 @@
 ---
 layout: project
 title: Audio Mixer
-description: Hardware and software development project on Zynq-7000 ZedBoard
+description: Hardware/software development on Zynq-7000 ZedBoard
 published: true
 ---
 
 This is a final project for IAS0550 Systems-on-Chip class which combines hardware (HW) design on FPGA and embedded software (SW) development.
 Both HW and SW was developed for [Zynq-7000 ARM/FPGA SoC Development Board](https://www.avnet.com/wps/portal/us/products/avnet-boards/avnet-board-families/zedboard/){:target="_blank"}. In this project, I gained an extensive understanding of how HW is interfaced with SW, learned to customize provided HW IP to specific needs, and got hands-on experience in embedded Linux development by writing drivers in C.
 
-<a href="" target="https://github.com/sejego/audio-mixer"><span class="label">View source code</span></a>
+<a href="https://github.com/sejego/audio-mixer" target="_blank"><span class="label">View source code</span></a>
 
 ## Project task
 
@@ -49,3 +49,5 @@ To keep things simple, volume is controlled through a CLI. When user chooses to 
 {: refdef}
 
 ## Acknowledgments
+
+I am grateful to my teammate, Kalev Kuusk, who assisted me during pair-programming, and has developed OLED drivers and main control loop in Linux.
