@@ -1,7 +1,7 @@
 ---
 title: Projects
 layout: default
-permalink: /projects
+permalink: /projects/
 published: true
 ---
 <h2 style="text-align: center;">Professional projects</h2>
