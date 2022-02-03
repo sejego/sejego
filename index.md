@@ -10,7 +10,7 @@ published: true
 # Hey!
 
 My name is Sergei, I am a software engineer and Computer and Systems Engineering student.
-My main interests are: robotics, embedded programming and web development. I am a big fan of finding solutions real-life challenges.
+My main interests are: robotics, embedded programming and web development. I am a big fan of finding solutions to real-life challenges.
 In my free time, I am a dancer and an avid learner.
 
 ## Experience
@@ -34,7 +34,7 @@ In my free time, I am a dancer and an avid learner.
 :   IMECC OÜ
 :   Work for [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
 
-For more details, have a look at my [CV](/_pages/Jegorov_CV_Eng.pdf){:target="_blank"}
+For more details, please contact me and I will provide you with my detailed CV.
 
 ## Tools
 
