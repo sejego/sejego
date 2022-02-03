@@ -34,8 +34,6 @@ In my free time, I am a dancer and an avid learner.
 :   IMECC OÜ
 :   Work for [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
 
-For more details, please contact me and I will provide you with my detailed CV.
-
 ## Tools
 
 <span class="label">ROS</span>
