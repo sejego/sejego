@@ -15,7 +15,7 @@ In my free time, I am a dancer and an avid learner.
 
 ## Experience
 **2020 – present**
-:   **ROS Developer** 
+:   **Software Developer** 
 :   Tallinn University of Technology
 :   [PSG453](https://www.etis.ee/Portal/Projects/Display/72b66c74-e911-49c3-ac6a-6716f9e72ba5?lang=ENG){:target="_blank"} project
 
