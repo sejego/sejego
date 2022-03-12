@@ -36,17 +36,17 @@ In my free time, I am a dancer and an avid learner.
 
 ## Tools
 
-<span class="label">ROS</span>
 <span class="label">C</span>
 <span class="label">C++</span>
+<span class="label">ROS/ROS2</span>
 <span class="label">Python</span>
 <span class="label">Ruby</span>
 <span class="label">Ruby On Rails</span>
 <span class="label">JavaScript</span>
 <br>
+<span class="label">HTML/CSS</span>
 <span class="label">VHDL</span>
 <span class="label">MATLAB</span>
-<span class="label">LaTeX</span>
 <span class="label">Linux</span>
 <span class="label">FIWARE</span>
 <span class="label">OpenCV</span>
