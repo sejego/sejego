@@ -32,7 +32,7 @@ In my free time, I am a dancer and an avid learner.
 **2018 – 2019**
 :   **Development Engineer**
 :   IMECC OÜ
-:   Work for [L4MS EU](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} project
+:   Work for [L4MS](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} H2020 project
 
 ## Tools
 
