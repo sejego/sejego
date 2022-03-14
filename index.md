@@ -20,7 +20,7 @@ In my free time, I am a dancer and an avid learner.
 :   Work for [PSG453](https://www.etis.ee/Portal/Projects/Display/72b66c74-e911-49c3-ac6a-6716f9e72ba5?lang=ENG){:target="_blank"} project
 
 **2021**
-:   **Web Developer**
+:   **Web Development intern**
 :   IASIS NGO
 :   Erasmus+ Internship in Greece
 
