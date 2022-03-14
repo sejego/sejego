@@ -10,4 +10,4 @@ Main aim of this project was to learn to use ActiveRecord associations, as they 
 <a href="https://github.com/sejego/private-events" target="_blank"><span class="label">View source code</span></a>
 <a href="https://blooming-harbor-80397.herokuapp.com/" target="_blank"><span class="label">Live Demo</span></a>
 
-![example image]({{ '/assets/images/private-events.png' | prepend: site.baseurl | prepend: site.url }} "Twitter clone")
+![example image]({{ '/assets/images/private-events.png' | prepend: site.baseurl | prepend: site.url }} "Private Events")
