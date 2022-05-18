@@ -79,3 +79,9 @@ published: true
 	</div>
 
 </div>
+
+<h2 style="text-align: center;">Publications</h2>
+
+1. V. Rjabtšikov et al., "Digital Twin Service Unit for AC Motor Stator Inter-Turn Short Circuit Fault Detection," *2021 28th International Workshop on Electric Drives: Improving Reliability of Electric Drives (IWED)*, 2021, pp. 1-5, doi: [10.1109/IWED52055.2021.9376328](https://doi.org/10.1109/IWED52055.2021.9376328).
+2. V. Kuts et al., ‘ROS middle-layer integration to Unity 3D as an interface option for propulsion drive simulations of autonomous vehicles’, *IOP Conference Series: Materials Science and Engineering*, vol. 1140, no.1, pp. 012008, May 2021, doi: [10.1088/1757-899X/1140/1/012008](https://doi.org/10.1088/1757-899X/1140/1/012008).
+3. V. Kuts et al., "Digital Twin: Universal User Interface for Online Management of the Manufacturing System." *Proceedings of the ASME 2021 International Mechanical Engineering Congress and Exposition. Volume 2B: Advanced Manufacturing*. Virtual, Online. November 1–5, 2021. V02BT02A003. ASME. doi: [10.1115/IMECE2021-69092](https://doi.org/10.1115/IMECE2021-69092).
