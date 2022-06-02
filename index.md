@@ -57,6 +57,7 @@ In my free time, I am a dancer and an avid learner.
 **2020 – 2022**
 :   **MSc Computer and Systems Engineering**
 :       Tallinn University of Technology
+:       **Honors:** *cum laude* (GPA 4.8/5)
 
 **2016 – 2019**
 :   **BSc Integrated Engineering**
