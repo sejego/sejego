@@ -2,6 +2,7 @@
 layout: project
 title: Twittter
 description: A simple twitter clone made with Ruby on Rails
+published: false
 ---
 
 This is a simple Twitter clone created with Ruby on Rails for [The Odin Project](https://theodinproject.com).
