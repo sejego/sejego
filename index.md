@@ -69,6 +69,8 @@ In my free time, I am a dancer and an avid learner.
 
 ## Awards
 
+**2022 [Student Project Competition](https://taltech.ee/en/itinnovationfestival){:target="_blank"} in Hardware and Systems category winner**
+
 **2021 [Comodule](https://comodule.com/){:target="_blank"} Sander Paas Scholarship winner**
 
 ## Contact
