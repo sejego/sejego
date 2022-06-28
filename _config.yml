@@ -1,7 +1,7 @@
 ### your site title here
 
 title: Sergei Jegorov
-description: Software Engineer | Student
+description: Software Engineer
 
 baseurl: "" #name of GitHub repository
 url: "http://www.sejego.engineer" #custom url to be used instead of GitHub repository

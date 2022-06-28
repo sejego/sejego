@@ -9,27 +9,27 @@ published: true
 ---
 # Hey!
 
-My name is Sergei, I am a software engineer and Computer and Systems Engineering student.
-My main interests are: robotics, embedded programming and web development. I am a big fan of finding solutions to real-life challenges.
+My name is Sergei, I am a software engineer and MSc in Computer and Systems Engineering.
+I am passionate about robotics, embedded programming and web development. I am a big fan of finding solutions to real-life challenges.
 In my free time, I am a dancer and an avid learner.
 
 ## Experience
-**2020 – present**
+**2020 Sep – 2022 Jun**
 :   **Software Developer** 
 :   Tallinn University of Technology
 :   Work for [PSG453](https://www.etis.ee/Portal/Projects/Display/72b66c74-e911-49c3-ac6a-6716f9e72ba5?lang=ENG){:target="_blank"} project
 
-**2021**
+**2021 Jan - 2021 Aug**
 :   **Web Development intern**
 :   IASIS NGO
 :   Erasmus+ Internship in Greece
 
-**2020 – 2021**
+**2020 Sep – 2021 Jan**
 :   **Robotics Engineer** 
 :   Tallinn University of Technology
 :   Work for [IVAR](https://ivar.ttu.ee/){:target="_blank"} laboratory
 
-**2018 – 2019**
+**2018 Jun – 2019 Jun**
 :   **Development Engineer**
 :   IMECC OÜ
 :   Work for [L4MS](http://www.l4ms.eu/content/l4ms-project-home){:target="_blank"} H2020 project
