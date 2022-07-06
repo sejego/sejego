@@ -14,6 +14,11 @@ I am passionate about robotics, embedded programming and web development. I am a
 In my free time, I am a dancer and an avid learner.
 
 ## Experience
+
+**2022 Jul – present**
+:   **Software Developer** 
+:   Auve Tech
+
 **2020 Sep – 2022 Jun**
 :   **Software Developer** 
 :   Tallinn University of Technology
