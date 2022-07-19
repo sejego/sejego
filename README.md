@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on developing self-driving buses at [Auve Tech](https://auve.tech/)
 
-- 🌱 Currently getting accustomed to my new job. Once I get more comfortable, in my plans: continue with **NodeJs**, learn **Rust** and do **IoT projects**. I am also looking forward to making an online learning tool that visualizes different scheduling algorithms to help CS students in understanding how CPU schedules its task.
+- 🌱 Currently getting accustomed to my new job. Once I get more comfortable, in my plans: continue with **NodeJs**, learn **Rust** and do **IoT projects**. I am also looking forward to making an online learning tool for students, but this may take some time.
 
 - 📫 Reach me via email: **sergei.jegorov@protonmail.com**
 
