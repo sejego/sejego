@@ -80,4 +80,4 @@ In my free time, I am a dancer and an avid learner.
 
 ## Contact
 
-Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or <sejego@taltech.ee>
+Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or <sergei.jegorov@protonmail.com>
