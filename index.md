@@ -17,7 +17,7 @@ In my free time, I am a dancer and an avid learner.
 
 **2022 Jul – present**
 :   **Software Developer** 
-:   Auve Tech
+:   [Auve Tech](https://auve.tech/)
 
 **2020 Sep – 2022 Jun**
 :   **Software Developer** 
@@ -53,7 +53,7 @@ In my free time, I am a dancer and an avid learner.
 <span class="label">VHDL</span>
 <span class="label">MATLAB</span>
 <span class="label">Linux</span>
-<span class="label">FIWARE</span>
+<span class="label">Docker</span>
 <span class="label">OpenCV</span>
 
 
@@ -74,10 +74,12 @@ In my free time, I am a dancer and an avid learner.
 
 ## Awards
 
+**2022 [National Estonian thesis contest](https://etag.ee/en/activities/contests/the-national-student-research-competition/){:target="_blank"} in Engineering and Technology laureate**
+
 **2022 [Student Project Competition](https://taltech.ee/en/itinnovationfestival){:target="_blank"} in Hardware and Systems category winner**
 
 **2021 [Comodule](https://comodule.com/){:target="_blank"} Sander Paas Scholarship winner**
 
 ## Contact
 
-Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or <sergei.jegorov@protonmail.com>
+Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or message me at <sergei.jegorov@protonmail.com>

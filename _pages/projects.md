@@ -82,6 +82,8 @@ published: true
 
 <h2 style="text-align: center;">Publications</h2>
 
+1. S. Jegorov et al., "Novel Digital Twin Concept for Industrial Applications. Study Case: Propulsion Drive System" 2022 ASME IMECE Conference 2022, 2022 (in proceedings).
+
 1. V. Rjabtšikov et al., "Digital Twin Service Unit for AC Motor Stator Inter-Turn Short Circuit Fault Detection," *2021 28th International Workshop on Electric Drives: Improving Reliability of Electric Drives (IWED)*, 2021, pp. 1-5, doi: [10.1109/IWED52055.2021.9376328](https://doi.org/10.1109/IWED52055.2021.9376328).
 
 2. V. Kuts et al., ‘ROS middle-layer integration to Unity 3D as an interface option for propulsion drive simulations of autonomous vehicles’, *IOP Conference Series: Materials Science and Engineering*, vol. 1140, no.1, pp. 012008, May 2021, doi: [10.1088/1757-899X/1140/1/012008](https://doi.org/10.1088/1757-899X/1140/1/012008).
