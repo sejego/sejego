@@ -52,6 +52,7 @@ In my free time, I am a dancer and an avid learner.
 <span class="label">HTML/CSS</span>
 <span class="label">VHDL</span>
 <span class="label">MATLAB</span>
+<span class="label">CMake</span>
 <span class="label">Linux</span>
 <span class="label">Docker</span>
 <span class="label">OpenCV</span>
