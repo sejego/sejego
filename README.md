@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergei</h1>
-<h3 align="center">Software engineer at Auve Tech 🚌 </h3>
+<h3 align="center">Professional software engineer</h3>
 
-- 🔭 I’m currently working on developing self-driving buses at [Auve Tech](https://auve.tech/)
+- 🔭 I’m currently working on developing self-driving buses for [Auve Tech](https://auve.tech/) and looking for projects to get my hands dirty!
 
-- 🌱 Currently getting my hands dirty with **NodeJs** and **React**, and doing some self-studying on topics of Linear algebra used in robotics and computer vision. In the future I plan to do some projects on sensor fusion (IMU, LiDAR, cameras).
+- 🌱 At the moment I am improving my **NodeJs** and **React**, and doing some self-studying on topics of Linear algebra used in robotics and computer vision.
 
 - 📫 Reach me via email: **sergei.jegorov@protonmail.com**
 

@@ -9,15 +9,16 @@ published: true
 ---
 # Hey!
 
-My name is Sergei, I am a software engineer and MSc in Computer and Systems Engineering.
-I am passionate about robotics, embedded programming and web development. I am a big fan of finding solutions to real-life challenges.
-In my free time, I am a dancer and an avid learner.
+I am a professional software engineer and MSc in Computer and Systems Engineering.
+As a consultant and developer, I am committed to translating my years of experience into scalable solutions for your unique challenges. Whether you are seeking to enhance your robots with advanced AI, streamline back-end processes or create a complex system, I am here to assist you with my knowledge.
+
+Let's [connect](#contact) and explore how my expertise can elevate your projects to new heights!
 
 ## Experience
 
 **2022 Jul – present**
 :   **Software Developer** 
-:   [Auve Tech](https://auve.tech/)
+:   [Auve Tech](https://auve.tech/){:target="_blank"}
 
 **2020 Sep – 2022 Jun**
 :   **Software Developer** 
@@ -45,14 +46,13 @@ In my free time, I am a dancer and an avid learner.
 <span class="label">C++</span>
 <span class="label">ROS/ROS2</span>
 <span class="label">Python</span>
-<span class="label">Ruby</span>
-<span class="label">Ruby On Rails</span>
+<span class="label">NodeJS</span>
+<span class="label">React</span>
 <span class="label">JavaScript</span>
 <br>
 <span class="label">HTML/CSS</span>
 <span class="label">VHDL</span>
 <span class="label">MATLAB</span>
-<span class="label">CMake</span>
 <span class="label">Linux</span>
 <span class="label">Docker</span>
 <span class="label">OpenCV</span>
@@ -83,4 +83,4 @@ In my free time, I am a dancer and an avid learner.
 
 ## Contact
 
-Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or message me at <sergei.jegorov@protonmail.com>
+Find me on [LinkedIn](https://linkedin.com/in/sejego){:target="_blank"} or message me at <sergei.jegorov@protonmail.com>.
