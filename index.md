@@ -16,7 +16,7 @@ Let's [connect](#contact) and explore how my expertise can elevate your projects
 
 ## Experience
 
-**2022 Jul – present**
+**2022 Jul – 2023 Aug**
 :   **Software Developer** 
 :   [Auve Tech](https://auve.tech/){:target="_blank"}
 
