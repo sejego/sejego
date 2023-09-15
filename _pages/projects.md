@@ -82,7 +82,7 @@ published: true
 
 <h2 style="text-align: center;">Publications</h2>
 
-1. S. Jegorov et al., "Novel Digital Twin Concept for Industrial Applications. Study Case: Propulsion Drive System" 2022 ASME IMECE Conference 2022, 2022 (in proceedings).
+1. S. Jegorov et al., "Novel Digital Twin Concept for Industrial Application. Study Case: Propulsion Drive System." Proceedings of the ASME 2022 International Mechanical Engineering Congress and Exposition. Volume 2B: Advanced Manufacturing. Columbus, Ohio, USA. October 30–November 3, 2022. V02BT02A011. ASME. doi: [10.1115/IMECE2022-97243](https://doi.org/10.1115/IMECE2022-97243)
 
 2. M. Ibrahim et al., "Conceptual Modelling of an EV-Permanent Magnet Synchronous Motor Digital Twin." *IEEE-PEMC International Power Electronics and Motion Control Conference.* Brasov, Romania. September 25-29, 2022. IEEE. link: [ETIS](https://www.etis.ee/Portal/Publications/Display/30c67d44-e946-4e58-9949-5bb56b54d92d)
 
