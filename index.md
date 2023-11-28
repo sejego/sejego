@@ -16,7 +16,7 @@ Let's [connect](#contact) and explore how my expertise can elevate your projects
 
 ## Experience
 
-**2022 Jul – 2023 Aug**
+**2022 Jul – present**
 :   **Software Developer** 
 :   [Auve Tech](https://auve.tech/){:target="_blank"}
 
@@ -51,7 +51,7 @@ Let's [connect](#contact) and explore how my expertise can elevate your projects
 <span class="label">JavaScript</span>
 <br>
 <span class="label">HTML/CSS</span>
-<span class="label">VHDL</span>
+<span class="label">Bash</span>
 <span class="label">MATLAB</span>
 <span class="label">Linux</span>
 <span class="label">Docker</span>
