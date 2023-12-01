@@ -9,4 +9,8 @@ This minimalistic weather app was created with vanilla JavaScript, HTML and CSS 
 <a href="https://github.com/sejego/what-the-weather-app" target="_blank"><span class="label">View source code</span></a>
 <a href="https://sejego.github.io/what-the-weather-app/" target="_blank"><span class="label">Live Demo</span></a>
 
-![example image]({{ '/assets/images/what-the-weather.png' | prepend: site.baseurl | prepend: site.url }} "What the Weather app")
+![example image desktop]({{ '/assets/images/what-the-weather/what-the-weather-desktop.png' | prepend: site.baseurl | prepend: site.url }} "What the Weather app")
+
+{:refdef: style="text-align: center;"}
+![example image mobile]({{ '/assets/images/what-the-weather/what-the-weather-mobile.jpg' | prepend: site.baseurl | prepend: site.url }} "What the Weather app")
+{: refdef}
