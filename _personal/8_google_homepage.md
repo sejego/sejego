@@ -2,6 +2,7 @@
 layout: project
 title: Google Homepage
 description: A Google homepage clone made with HTML/CSS
+published: false
 ---
 
 Google Homepage clone is a project build with plain HTML and CSS for [The Odin Project](https://theodinproject.com).
