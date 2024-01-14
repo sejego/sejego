@@ -16,6 +16,11 @@ Let's [connect](#contact) and explore how my expertise can elevate your projects
 
 ## Experience
 
+**2023 Nov - present**
+:   **Freelance Developer**
+:   Sejego Konsult
+:   Robotics and software engineering consulting
+
 **2022 Jul – present**
 :   **Software Developer** 
 :   [Auve Tech](https://auve.tech/){:target="_blank"}
